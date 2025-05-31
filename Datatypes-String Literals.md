@@ -20,3 +20,5 @@ print(men_stepped_on_the_moon)
 
 
 ## Result
+
+Thus the program has been successfully executed
