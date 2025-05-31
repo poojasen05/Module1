@@ -35,3 +35,5 @@ print("d:",d)
 ![image](https://github.com/user-attachments/assets/98bd8d30-8c70-47f5-acb6-85841646bac5)
 
 ## Result
+
+Thus the program has been successfully executed
